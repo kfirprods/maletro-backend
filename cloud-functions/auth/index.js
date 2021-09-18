@@ -1,3 +1,3 @@
 exports.helloWorld = (req, res) => {
-  res.send("wazzup");
+  res.send("changed from wazzup to something else");
 };
