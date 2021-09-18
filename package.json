@@ -1,0 +1,20 @@
+{
+  "name": "maletro-backend",
+  "version": "1.0.0",
+  "description": "Backend for Maletro - the \"letra maestro\" app that helps you learn languages with your favorite music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfirprods/maletro-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfirprods/maletro-backend/issues"
+  },
+  "homepage": "https://github.com/kfirprods/maletro-backend#readme"
+}
