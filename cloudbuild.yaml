@@ -1,0 +1,4 @@
+steps:
+  - name: "gcr.io/google.com/cloudsdktool/cloud-sdk"
+    args: ["./deploy-scripts/deploy-auth.sh"]
+    waitFor: ["-"]
